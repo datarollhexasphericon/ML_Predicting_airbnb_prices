@@ -15,7 +15,7 @@ This project includes an extensive and thorough EDA and feature engineering. `KN
 An embedded feature selection is used, i.e. a Random Forest Regression.
 
 ### 3.3. Model Definition
-Two models are selected for this task and compared: **Random Forest Regressor** and **XGBoost Regressor** due to their robustness and ability to handle complex, non-linear relationships. 
+Two models are selected for this task and compared: `Random Forest Regressor` and `XGBoost Regressor` due to their robustness and ability to handle complex, non-linear relationships. 
 
 ### 3.4. Training and Hyperparameter Tuning
 A `GridSearchCV` is employed to identify the optimal hyperparameters for the models. 
