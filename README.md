@@ -2,6 +2,7 @@
 
 ## 1. Project Motivation and Description
 This project aims to develop a predictive model for Airbnb listing prices based on various property and location features. Accurate price prediction can help hosts set competitive prices and assist customers in making informed booking choices.
+This project is part of my AI bootcamp exam in ML.
 
 ## 2. Data
 This project uses **a real-word dataset** sourced from Airbnb property listings via web scraping. 
